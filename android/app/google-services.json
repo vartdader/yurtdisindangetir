@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413235653147",
+    "firebase_url": "https://baggageshop-8df4e.firebaseio.com",
+    "project_id": "baggageshop-8df4e",
+    "storage_bucket": "baggageshop-8df4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413235653147:android:5a9920eea933bf2c71e6be",
+        "android_client_info": {
+          "package_name": "com.example.yurtdisindangetir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413235653147-nmfh2f6uoudt6gg55fpoks1e6i66rieu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZ1kOfv3hd1UmaTW9gR6f2GeigGLscjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413235653147-nmfh2f6uoudt6gg55fpoks1e6i66rieu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
